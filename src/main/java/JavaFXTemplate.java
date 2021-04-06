@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 public class JavaFXTemplate extends Application {
 
 	public static void main(String[] args) {
+		System.out.println("Hrte");
 		// TODO Auto-generated method stub
 		launch(args);
 	}
